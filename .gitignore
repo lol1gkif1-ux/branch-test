@@ -1,0 +1,11 @@
+# Keep local secrets and editor files out of this public lab.
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
